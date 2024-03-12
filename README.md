@@ -22,6 +22,7 @@ I believe in continuous learning and self-improvement. Here are some areas I'm c
 -   Microservices architecture and deployment with Docker and Kubernetes
 -   Enhancing my skills in database optimization and management
 - Prompt Engineering
+- Spring Security
 
 ## 🚀 Future Goals
 
