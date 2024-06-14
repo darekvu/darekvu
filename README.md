@@ -2,11 +2,11 @@
 
 ## About Me
 
-Hey there! I'm Darek a soon-to-be Java Junior Backend Developer with a passion for crafting clean, efficient code. I'm thrilled about the opportunity to dive into the world of backend development and contribute to exciting projects that make a difference.
+Hey there! I'm Darek, learning to become a Java Junior Backend Developer with a passion for crafting clean, efficient code. I'm thrilled about the opportunity to dive into the world of backend development and contribute to new or exciting projects that make a difference.
 
 ## 🔧 Skills & Expertise
 
--   **Programming Languages**: Java (of course!)
+-   **Programming Languages**: Javascript, Java (of course!) and a little bit of Python.
 -   **Frameworks & Technologies**: Spring Boot, Hibernate
 -   **Database Management Systems**: PostgreSQL
 -   **Version Control**: Git
